@@ -1,0 +1,222 @@
+# Iniciado: 29/03/2025
+
+Curso: Git e contribuições para projetos Open Source
+
+----------------------------------------------------------
+*** Seção 2 - Básico em Git ***
+
+xx/xx/2025 - Aula 7 - Primeiros comandos Git
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 8 - Criando Repositório no GitHub
+
+git remoto adicionar origem https://github.com/Rogonrodrigues3942/StarWarsRepo.git
+
+git branch -M principal 
+
+git push -u origem principal
+
+
+git remote add origin git@github.com:Rogonrodrigues3942/StarWarsRepo.git
+
+git branch -M main
+ 
+git push -u origem principal
+
+passphrasse: 
+
+Me explique cada linha da solicitação da SSH key, a seguir:
+
+$ ssh-keygen -t rsa -b 4096 -C "rogonrodrigues@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/rogon/.ssh/id_rsa): r@f@samMy26
+Enter passphrase (empty for no passphrase):
+
+Ela será cadastrada diretório remoto do GitHub ou terei que inserir depois neste repositório?
+
+$ ssh-keygen -t rsa -b 4096 -C "rogonrodrigues@gmail.com"
+Generating public/private rsa key pair.
+Enter file in which to save the key (/c/Users/rogon/.ssh/id_rsa): 
+/c/Users/rogon/.ssh/id_rsa already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again:
+Your identification has been saved in /c/Users/rogon/.ssh/id_rsa
+Your public key has been saved in /c/Users/rogon/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:r4glFHtq7vZMNs/BHWIbOllODyptCrJ2NoRgCJrBy9w rogonrodrigues@gmail.com
+The key's randomart image is:
++---[RSA 4096]----+
+|.                |
+|o.               |
+|*oo .            |
+|== E o           |
+|o . o . S .      |
+| . o + X O .     |
+|. o = % = +      |
+| + B.@ * o       |
+|o oo*.+ +        |
++----[SHA256]-----+
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 9 - Editando o Readme.md
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 10 - Revisão dos Comandos
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 11 - Estado dos Arquivos no Git
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 12 - Exercício de commit
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 03: Históricos e conflitos
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 4: Branching, Merge e Revase
+
+xx/xx/2025 - Aula 
+
+---------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 5: Colaboração com Open Source
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+*** Seção 6: Além do Básico
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 
+
+----------------------------------------------------------
+
+
+
+
+
+
+
