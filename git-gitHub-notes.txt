@@ -5,7 +5,6 @@ Git e GitHub Doc
 Repositório: coleção de pastas e arquivos de um projeto.
 
 ----------------------------------------------------------
-
 Como GitHub funciona: GitHub hospeda repositórios do Git e fornece aos desenvolvedores ferramentas para enviar um código melhor por meio das funcionalidades de linha de comando, problemas(discussões encadeadas), pull requests, revisão de código ou o uso de uma coleção de aplicativos grátis e para compra em GitHub Marketplace.
 
 
@@ -26,9 +25,6 @@ git clone https://github.com/Rogonrodrigues3942/StarWarsRepo.git
 
 ----------------------------------------------------------
 21/03/2025 - DOJO GitHub - aplicado dia 06/fev
-
-path: https://projectdome-my.sharepoint.com/personal/cesar_sa_projectdome_com_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcesar_sa_projectdome_com_br%2FDocuments%2FGrava%C3%A7%C3%B5es%2FDOJO_+Introdu%C3%A7%C3%A3o+ao+Git+%28feat+Rafael+Silva%29-20250206_110303-Grava%C3%A7%C3%A3o+de+Reuni%C3%A3o.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.2bcf7510-09a5-46b0-8926-86ea6053d934
-
 
 ****
 
