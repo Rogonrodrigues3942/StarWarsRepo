@@ -76,13 +76,7 @@ hint: Updates were rejected because the tip of your current branch is behind
 hint: its remote counterpart. If you want to integrate the remote changes,
 hint: use 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
 Me explique o retorno e como corrijo isso e carrego os arquivos novos no diretório git?
-
-
-CF0B-366D
-9C7B-2144
-token: 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 (90 DIAS)
 
 https://github.com/Rogonrodrigues3942/teste
 
@@ -1031,12 +1025,7 @@ git@github.com:Rogonrodrigues3942/cli-create-repository
 
 Não cadastrei frase de segurança no momento  de cadastrar a chave SSH, tentei criar repositório no GitHub e pediu a passphrase e digitei e ocorreu erro fatal, foi negado a criação. Como resolvo erro mencionado a seguir:
 
-Enter passphrase for key '/c/Users/rogon/.ssh/id_rsa':
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
 
-Please make sure you have the correct access rights
-and the repository exists.
 
 
 
