@@ -5,12 +5,14 @@ Curso: Git e contribuições para projetos Open Source
 ----------------------------------------------------------
 *** Seção 2 - Básico em Git ***
 
-xx/xx/2025 - Aula 7 - Primeiros comandos Git
+29/03/2025 - Aula 7 - Primeiros comandos Git
+
+rever aula *****
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 8 - Criando Repositório no GitHub
+29/03/2025 - Aula 8 - Criando Repositório no GitHub
 
-git remoto adicionar origem https://github.com/Rogonrodrigues3942/StarWarsRepo.git
+git remote add origin https://github.com/Rogonrodrigues3942/StarWarsRepo.git
 
 git branch -M principal 
 
@@ -23,21 +25,44 @@ git branch -M main
  
 git push -u origem principal
 
-passphrasse: 
-
-Me explique cada linha da solicitação da SSH key, a seguir:
 
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 9 - Editando o Readme.md
+30/03/2025 - Aula 9 - Editando o Readme.md
+
+rever *****
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 10 - Revisão dos Comandos
+30/03/2025 - Aula 10 - Revisão dos Comandos
+
+1 - git add .
+
+2 - git commit -m "message"
+
+3 - git status
+
+4 - git log
+
+5 - git push
+
+
+Git Workflow
+
+Editando arquivo personagensS
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 11 - Estado dos Arquivos no Git
+31/03/2025 - Aula 11 - Estado dos Arquivos no Git
+
+untracked - monitorado;
+
+modified - alterado;
+
+staged - arquivos aguardando para serem comentados;
+
+commited - arquivos comentados prontos para o push.
+
 
 ----------------------------------------------------------
 
