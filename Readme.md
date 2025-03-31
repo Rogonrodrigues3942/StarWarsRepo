@@ -6,6 +6,4 @@ Start: 29/03/2025
 
 Site oficial: https://git-scm.com/
 
-Quando precisar de  ajudam digite o comando:
-
-# $ git help <comand>
+Exclui informações do comando git help.
