@@ -68,7 +68,7 @@ commited - arquivos comentados prontos para o push.
 
 git diff HEAD~1
 
-git 
+git pull
 
 ----------------------------------------------------------
 
@@ -82,7 +82,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Matéria: Conflitos e colaboração.
 
-xx/xx/2025 - Aula 13 - Comandos Clone e Pull
+01/04/2025 - Aula 13 - Comandos Clone e Pull
+
+
+* git clone: baixa um repositório com todo o seu conteúdo.
+
+É uma maneira fácil de conexão com repositório remoto.
+
+
+* git pull 
+
+baixa as alterações do repositório remoto, sincroniza as alterações realizadas em uma branch.
+
+Criado segundo repositório e atualizado o primeiro repositório.
 
 ----------------------------------------------------------
 xx/xx/2025 - Aula 14 - Exercícios de colaboração em repositório
