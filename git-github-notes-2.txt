@@ -80,6 +80,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 03: Históricos e conflitos
 
+Matéria: Conflitos e colaboração.
+
 xx/xx/2025 - Aula 13 - Comandos Clone e Pull
 
 ----------------------------------------------------------
