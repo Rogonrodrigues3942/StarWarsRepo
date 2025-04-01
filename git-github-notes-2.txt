@@ -64,9 +64,15 @@ staged - arquivos aguardando para serem comentados;
 commited - arquivos comentados prontos para o push.
 
 
+*** Diff ***
+
+git diff HEAD~1
+
+git 
+
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 12 - Exercício de commit
+31/01/2025 - Aula 12 - Exercício de commit
 
 
 
@@ -74,37 +80,42 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 03: Históricos e conflitos
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 13 - Comandos Clone e Pull
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 14 - Exercícios de colaboração em repositório
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 15 - Navegando no histórico
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 16 - Desfazendo com checkout
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 17 - Desfazendo com Revert e Reeset
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 18 - Conflitos
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 19 - Exercícios de conflitos
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 20 - Resolvendo conflitos com Merge
+
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 21 - Visualizando o histórico em uma Interface Gráfica
 
 ----------------------------------------------------------
 
 
+*** Fim ***
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
