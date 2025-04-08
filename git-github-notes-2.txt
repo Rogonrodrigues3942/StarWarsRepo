@@ -126,7 +126,7 @@ $ git checkout master
 
 03/04/2025 - Aula 16 - Desfazendo com checkout
 
-Desfazendo mudanças  que estão no topo da pilha de commits, deigite o comando:
+1 - Desfazendo mudanças  que estão no topo da pilha de commits, deigite o comando:
 
 $ git checkout -- path_do_arquivo
 
@@ -138,9 +138,13 @@ Para checar a ação de reversão de mudaças, digite o comando:
 
 $ git status
 
+
+2 - Desfazendo alterações desde o 
+
+
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 17 - Desfazendo com Revert e Reeset
+08/04/2025 - Aula 17 - Desfazendo com Revert e Reeset
 
 ----------------------------------------------------------
 
