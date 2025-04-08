@@ -97,14 +97,46 @@ baixa as alterações do repositório remoto, sincroniza as alterações realiza
 Criado segundo repositório e atualizado o primeiro repositório.
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 14 - Exercícios de colaboração em repositório
+01/04/2025 - Aula 14 - Exercícios de colaboração em repositório
 
 ----------------------------------------------------------
-xx/xx/2025 - Aula 15 - Navegando no histórico
+03/04/2025 - Aula 15 - Navegando no histórico
+
+
+1 - Retornar as versões anteriores, acessando estados como arquivos e pastas do momento do determinado commit.
+
+Digite o comando:
+
+$ git checkout < commit >
+
+Retorna o estado 'detached HEAD'. significa que saiu do topo da pilha dos commits. 
+
+Esta ação é útil para detectar bugs para versões de arquivos e pastas anteriores ao topo da pilha. 
+
+** É recomendado ao se resgatar versões anteriores de arquivos e pastas, não realizar commits no ponto resgatado e sim criar uma nova branch e realizar os commits, retornar a branch master e voltar ao topo da fila. 
+
+2 - Reverter estado de branch, voltar ao topo da pilha de commits. Digite o comando:
+
+$ git checkout master
+
+*** realizar o exercício depois. ***
+
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 16 - Desfazendo com checkout
+03/04/2025 - Aula 16 - Desfazendo com checkout
+
+Desfazendo mudanças  que estão no topo da pilha de commits, deigite o comando:
+
+$ git checkout -- path_do_arquivo
+
+Exemplo:
+
+$ git checkout -- personagens
+
+Para checar a ação de reversão de mudaças, digite o comando:
+
+$ git status
 
 ----------------------------------------------------------
 
