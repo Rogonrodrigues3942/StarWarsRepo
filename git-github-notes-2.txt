@@ -145,6 +145,7 @@ $ git status
 ----------------------------------------------------------
 
 08/04/2025 - Aula 17 - Desfazendo com Revert e Reeset
+<<<<<<< HEAD
 
 $ git revert < nº do commit(total/parcial) >
 
@@ -154,10 +155,12 @@ Um novo commit que desfaz as alterações do commit especificado.
 $ git reset --hard < nº commit >
 
 Reconfigura e remove todas as alterações. Cuidado! Usar com bom senso.
+=======
+>>>>>>> 08534f410b33b38b0a08239da83c3b593e0c76f9
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 18 - Conflitos
+08/04/2025 - Aula 18 - Conflitos
 
 ----------------------------------------------------------
 
