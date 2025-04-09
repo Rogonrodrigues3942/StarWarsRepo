@@ -162,13 +162,31 @@ Reconfigura e remove todas as alterações. Cuidado! Usar com bom senso.
 
 08/04/2025 - Aula 18 - Conflitos
 
+
+Qual o comando git para não pedir passphrase
+
+1º passo:
+
+$ eval $(ssh-agent -s)  # Inicia o ssh-agent
+
+
+2º passo:
+
+ssh-add ~/.ssh/id_rsa  # Adiciona a chave privada ao agente
+
+
+
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 19 - Exercícios de conflitos
+09/04/2025 - Aula 19 - Exercícios de conflitos
+
+Rever aula, interessante o assuntos.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 20 - Resolvendo conflitos com Merge
+09/04/2025 - Aula 20 - Resolvendo conflitos com Merge
+
+Rever aula, interessante o assuntos. Continuação da aula 19.
 
 ----------------------------------------------------------
 
