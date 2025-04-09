@@ -190,12 +190,16 @@ Rever aula, interessante o assuntos. Continuação da aula 19.
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 21 - Visualizando o histórico em uma Interface Gráfica
+09/04/2025 - Aula 21 - Visualizando o histórico em uma Interface Gráfica
+
+Utilizar a interface gráfica "Collab GitEye" 
+
+Rever aula, interessante a interface gráfica. Ótima para análise de históricos.
 
 ----------------------------------------------------------
 
 
-*** Fim ***
+*** Fim  da Seção 3***
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
