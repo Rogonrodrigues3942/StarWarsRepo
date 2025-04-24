@@ -205,33 +205,34 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 4: Branching, Merge e Revase
 
-xx/xx/2025 - Aula 
+24/04/2025 - Aula 22 - Branching
 
 ---------------------------------------------------------
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 23 - Exercício de Branchs
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 24 Git Merge e Exercício
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 25 - Git Release
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 26 - Exercício de Rebase
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 27 - Git Fetch
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 28 - Tags
 
 ----------------------------------------------------------
 
+*** Fim  da Seção 4***
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
