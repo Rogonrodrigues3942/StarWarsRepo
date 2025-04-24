@@ -205,33 +205,119 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 *** Seção 4: Branching, Merge e Revase
 
-xx/xx/2025 - Aula 
+24/04/2025 - Aula 22 - Branching
+
+🟢 Branch (ramo)
+
+Um branch no Git é como uma linha do tempo paralela do seu projeto.
+
+Ele permite que você trabalhe em mudanças sem afetar o código principal (geralmente o master ou main).
+
+
+
+➡️ Exemplo simples:
+
+Imagine que o master é a versão do site que está no ar.
+
+Você cria um branch chamado nova-funcionalidade para trabalhar numa melhoria sem quebrar o site atual.
+
+
+
+🌿 Branching (ramificação)
+
+É o ato de criar e usar branches.
+
+Ou seja, quando você cria, muda ou mescla um branch, você está fazendo branching.
+
+
+Conteúdo:
+
+1 - Comando "git branch", traz todos os branches criados no seu repositório remoto,  o que está marcado com asterisco (*) é o ramo corrente, sendo utilizado no momento de sua atualização.
+
+$ git branch
+  main
+  master
+* nova-branch
+
+
+2 -  Criando um novo branch, comando: git branch "nome-do-novo-branch"
+
+Exemplo:
+
+$ git branch novo-branch
+
+
+3 - Deletando um  branch, comando: git branch -d "nome-do-branch"
+
+Exemplo:
+
+$ git branch -d novo-branch
+
+
+4 - Trocando de  branch, comando: git checkout "nome-do-branch"
+
+Exemplo:
+
+$ git checkout novo-branch
+
+ASSISTIDA: XX/XX/2025
+EXERCÍCIO: XX/04/2025
 
 ---------------------------------------------------------
-xx/xx/2025 - Aula 
+24/04/2025 - Aula 23 - Exercício de Branchs
+
+Não é necessário realizar push a cada commit realizado.
+
+Também é recomendável criar a nova branch no GitHub (repositório remoto).
+
+
+
+
+ASSISTIDA: 24/04/2025
+EXERCÍCIO: 24/04/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+24/04/2025 - Aula 24 Git Merge e Exercício
+
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 25 - Git Release
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 26 - Exercício de Rebase
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
+----------------------------------------------------------
+
+xx/xx/2025 - Aula 27 - Git Fetch
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
+xx/xx/2025 - Aula 28 - Tags
+
+
+ASSISTIDA: XX/0X/2025
+EXERCÍCIO: XX/0X/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
-xx/xx/2025 - Aula 
-
-----------------------------------------------------------
-
+*** Fim  da Seção 4***
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
