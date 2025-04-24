@@ -207,6 +207,28 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 24/04/2025 - Aula 22 - Branching
 
+🟢 Branch (ramo)
+
+Um branch no Git é como uma linha do tempo paralela do seu projeto.
+
+Ele permite que você trabalhe em mudanças sem afetar o código principal (geralmente o master ou main).
+
+
+
+➡️ Exemplo simples:
+
+Imagine que o master é a versão do site que está no ar.
+
+Você cria um branch chamado nova-funcionalidade para trabalhar numa melhoria sem quebrar o site atual.
+
+
+
+🌿 Branching (ramificação)
+
+É o ato de criar e usar branches.
+
+Ou seja, quando você cria, muda ou mescla um branch, você está fazendo branching.
+
 ---------------------------------------------------------
 xx/xx/2025 - Aula 23 - Exercício de Branchs
 
