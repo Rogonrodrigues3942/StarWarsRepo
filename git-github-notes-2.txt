@@ -145,6 +145,7 @@ $ git status
 ----------------------------------------------------------
 
 08/04/2025 - Aula 17 - Desfazendo com Revert e Reeset
+<<<<<<< HEAD
 
 $ git revert < nº do commit(total/parcial) >
 
@@ -154,7 +155,8 @@ Um novo commit que desfaz as alterações do commit especificado.
 $ git reset --hard < nº commit >
 
 Reconfigura e remove todas as alterações. Cuidado! Usar com bom senso.
-
+=======
+>>>>>>> 08534f410b33b38b0a08239da83c3b593e0c76f9
 
 ----------------------------------------------------------
 
@@ -268,6 +270,9 @@ Não é necessário realizar push a cada commit realizado.
 
 Também é recomendável criar a nova branch no GitHub (repositório remoto).
 
+
+
+
 ASSISTIDA: 24/04/2025
 EXERCÍCIO: 24/04/2025
 
@@ -275,18 +280,42 @@ EXERCÍCIO: 24/04/2025
 
 24/04/2025 - Aula 24 Git Merge e Exercício
 
-ASSISTIDA: XX/XX/2025
-EXERCÍCIO: XX/04/2025
 
-----------------------------------------------------------
+🧠 Explicação simples:
+Imagine que você tem duas linhas de trabalho no seu projeto:
 
-xx/xx/2025 - Aula 24 Git Merge e Exercício
->>>>>>> nova-branch
+A branch principal: master ou main
+
+Uma branch de desenvolvimento: nova-feature
+
+Depois de fazer mudanças e commits na nova-feature, você quer unir essas mudanças com a branch principal.
+É aí que entra o comando:
+
+
+git merge nova-feature
+Esse comando pega todas as mudanças da branch nova-feature e traz para a branch atual (geralmente master ou main).
+
+🧰 Exemplo prático:
+Você está na branch principal:
+
+git checkout main
+Faz o merge da feature:
+
+
+git merge nova-feature
+Pronto! Agora as mudanças da nova-feature fazem parte da main.
+
+🚨 E se der conflito?
+Às vezes, os arquivos mudaram nas duas branches e o Git não sabe qual usar. Isso gera um conflito, e você precisa escolher manualmente o que fica.
+
+
+*** Conteúdo do curso:
 
 
 
-ASSISTIDA: XX/0X/2025
-EXERCÍCIO: XX/0X/2025
+
+ASSISTIDA: 24/04/2025
+EXERCÍCIO: 24/04/2025
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 25 - Git Release
