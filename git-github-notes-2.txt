@@ -392,7 +392,7 @@ $ git checkout branch2
 
 
 ASSISTIDA: 25/04/2025
-EXERCÍCIO: XX/0X/2025
+EXERCÍCIO: 26/04/2025
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 27 - Git Fetch
