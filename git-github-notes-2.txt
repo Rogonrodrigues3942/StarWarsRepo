@@ -374,6 +374,21 @@ $ git checkout master
 3º - Adicionar novos personagens  no arquivo personagens
 
 
+4º - Realize o adicionamento no GitHub
+
+$ git add .
+
+
+5º - Realize o comentário
+
+$ git commit
+
+
+6º - Mude para a "branch2"
+
+$ git checkout branch2
+
+
 
 
 ASSISTIDA: 25/04/2025
