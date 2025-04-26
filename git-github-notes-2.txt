@@ -311,25 +311,72 @@ Pronto! Agora as mudanças da nova-feature fazem parte da main.
 
 *** Conteúdo do curso:
 
+1 - Estar no branch "master", digite o comando :
+
+$ git merge nova-branch
 
 
+2 - Resolva os conflitos no arquivo correspondente, de forma manual;
+
+
+3 - Realize a adição:
+
+$ git add . 
+
+
+4 - Realize o comentários:
+
+$ git commit
+
+
+5 - Realize o push para branch master
+
+$ git push
 
 ASSISTIDA: 24/04/2025
 EXERCÍCIO: 24/04/2025
-----------------------------------------------------------
 
-xx/xx/2025 - Aula 25 - Git Release
-
-
-ASSISTIDA: XX/0X/2025
-EXERCÍCIO: XX/0X/2025
 
 ----------------------------------------------------------
 
-xx/xx/2025 - Aula 26 - Exercício de Rebase
+25/04/2025 - Aula 25 - Git Release
+
+O comando "git rebase" é usado para reorganizar a história dos commits, como se fosse "recontar a história de outro jeito", deixando tudo mais limpo e linear.
+
+O "git rebase" pega os commits de uma branch e coloca por cima da base de outra branch.
 
 
-ASSISTIDA: XX/0X/2025
+Diferença entre merge e rebase:
+
+merge: junta os históricos das branches e cria um commit de merge (comum em projetos colaborativos).
+
+rebase: reaplica os commits um por um por cima da outra branch, criando um histórico mais limpo e linear.
+
+ASSISTIDA: 25/04/2025
+EXERCÍCIO: 25/04/2025
+REVISTA: 26/04/2025
+
+----------------------------------------------------------
+25/04/2025 - Aula 26 - Exercício de Rebase
+
+Praticando:
+
+1º - Criar uma nova branch
+
+$ git checkout -b branch2
+
+
+2º - Retornar para branch 'master':
+
+$ git checkout master
+
+
+3º - Adicionar novos personagens  no arquivo personagens
+
+
+
+
+ASSISTIDA: 25/04/2025
 EXERCÍCIO: XX/0X/2025
 ----------------------------------------------------------
 
