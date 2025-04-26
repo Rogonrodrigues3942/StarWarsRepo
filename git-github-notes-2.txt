@@ -388,15 +388,18 @@ $ git commit
 
 $ git checkout branch2
 
+7º - Adicione novo personagem Kylo Ren ao arquivo personagens
 
+8º - Realize a adição no GitHub
+
+9º - Realize o comentário da mudança.
 
 
 ASSISTIDA: 25/04/2025
-EXERCÍCIO: XX/0X/2025
+EXERCÍCIO: 26/04/2025
 ----------------------------------------------------------
 
 xx/xx/2025 - Aula 27 - Git Fetch
-
 
 ASSISTIDA: XX/0X/2025
 EXERCÍCIO: XX/0X/2025
